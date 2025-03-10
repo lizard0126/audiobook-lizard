@@ -50,11 +50,11 @@
 <details>
 <summary><strong><span style="font-size: 1.3em; color: #2a2a2a;">如果要反馈建议或报告问题</span></strong></summary>
 
-<strong>可以[点这里](https://github.com/你的仓库地址/issues)创建议题~</strong>
+<strong>可以[点这里](https://github.com/lizard0126/audiobook-lizard/issues)创建议题~</strong>
 </details>
 
 <details>
 <summary><strong><span style="font-size: 1.3em; color: #2a2a2a;">如果喜欢我的插件</span></strong></summary>
 
-<strong>可以[请我喝可乐](https://你的赞助链接)，没准就有动力更新新功能了~</strong>
+<strong>可以[请我喝可乐](https://ifdian.net/a/lizard0126)，没准就有动力更新新功能了~</strong>
 </details>
